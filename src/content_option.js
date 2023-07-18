@@ -12,7 +12,7 @@ const introdata = {
         // third: "I develop mobile apps",
     },
     description: "Hey..I'm Mihir Bangia, a Full Stack Web Developer who is passionate for coding and converting my creative ideas into programming..",
-    your_img_url: "../home/My.JPG",
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
