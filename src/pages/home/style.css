@@ -11,6 +11,9 @@ section {
     font-family: Cinzel;
 }
 
+.img{
+    background-image: url('../home/My.JPG');
+}
 .has-first-color {
     color: var(--primary-color);
 }

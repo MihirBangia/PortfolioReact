@@ -12,7 +12,7 @@ const introdata = {
         // third: "I develop mobile apps",
     },
     description: "Hey..I'm Mihir Bangia, a Full Stack Web Developer who is passionate for coding and converting my creative ideas into programming..",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "../home/My.JPG",
 };
 
 const dataabout = {
@@ -142,7 +142,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/MihirBangia",
     facebook: "https://facebook.com",
-    linkedin: "https://www.linkedin.com/in/mihir-bangia",
+    linkedin: "https://www.linkedin.com/in/mihir-bangia-a948b9186/",
     twitter: "https://twitter.com",
 };
 export {
