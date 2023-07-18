@@ -1,7 +1,7 @@
 const logotext = "MIHIR";
 const meta = {
     title: "Mihir Bangia",
-    description: "I’m Mihir Bangia Full stack devloper,currently working in Ahmedabad",
+    description: "I’m Mihir Bangia Full stack Web Devloper,currently working in Ahmedabad",
 };
 
 const introdata = {
@@ -9,65 +9,58 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        // third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Hey..I'm Mihir Bangia, a Full Stack Web Developer who is passionate for coding and converting my creative ideas into programming..",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "a bit about my self",
+    aboutme: "Hey, I'm Mihir Bangia. I am a Full Stack Web Developer.Passionate about Coding and I'm always curious to learn more about new technologies and creative coding.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
-];
+// const worktimeline = [{
+//         jobtitle: "Designer of week",
+//         where: "YAdfi",
+//         date: "2020",
+//     },
+//     {
+//         jobtitle: "Designer of week",
+//         where: "Jamalya",
+//         date: "2019",
+//     },
+//     {
+//         jobtitle: "Designer of week",
+//         where: "ALquds",
+//         date: "2019",
+//     },
+// ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
+const skills = [
     {
-        name: "Djano",
+        name: "Magento",
         value: 85,
     },
     {
         name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
         value: 85,
+    },
+    {
+        name: "React Js",
+        value: 70,
+    },
+    {
+        name: "Node Js",
+        value: 60,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "eCommerce Websites",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -136,8 +129,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "mihirbangia30@gmail.com",
+    YOUR_FONE: "+91 7567116583",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,9 +140,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/MihirBangia",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/mihir-bangia",
     twitter: "https://twitter.com",
 };
 export {
