@@ -149,7 +149,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
+    // worktimeline,
     skills,
     services,
     introdata,
