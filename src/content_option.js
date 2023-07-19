@@ -134,9 +134,9 @@ const contactConfig = {
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_2324pfy",
+    YOUR_TEMPLATE_ID: "template_pu6wzkc",
+    YOUR_USER_ID: "CshuwrPAPQ6U6g__v",
 };
 
 const socialprofils = {
