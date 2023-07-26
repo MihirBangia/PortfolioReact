@@ -1,3 +1,4 @@
+import logo from './pages/portfolio/weatherapp.png'
 const logotext = "MIHIR";
 const meta = {
     title: "Mihir Bangia",
@@ -66,9 +67,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: logo,
+        description: "Weather Forecasting website using Node",
+        link: "https://myweatherapp.mihirbangia.repl.co/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",

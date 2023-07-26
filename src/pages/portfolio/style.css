@@ -22,7 +22,9 @@
 }
 
 .po_item img {
+    /* width:400px; */
     max-width: 100%;
+    height:250px;
 }
 
 .po_item .content {
