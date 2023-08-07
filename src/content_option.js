@@ -1,4 +1,5 @@
 import logo from './pages/portfolio/weatherapp.png'
+import bmi from './pages/portfolio/bmi1.png'
 const logotext = "MIHIR";
 const meta = {
     title: "Mihir Bangia",
@@ -72,9 +73,9 @@ const dataportfolio = [{
         link: "https://myweatherapp.mihirbangia.repl.co/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: bmi,
+        description: "A Body Mass Index Calculator Made with reactjs",
+        link: "https://mihirbmicalculator.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
