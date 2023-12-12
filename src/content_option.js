@@ -1,6 +1,7 @@
 import logo from "./pages/portfolio/weatherapp.png";
 import bmi from "./pages/portfolio/bmi1.png";
 import newsapp from "./pages/portfolio/newsapp.png";
+import musicplayer from './pages/portfolio/musicplayer.png';
 const logotext = "MIHIR";
 const meta = {
   title: "Mihir Bangia",
@@ -45,7 +46,7 @@ const dataabout = {
 const skills = [
   {
     name: "Magento",
-    value: 85,
+    value: 75,
   },
   {
     name: "Javascript",
@@ -53,11 +54,11 @@ const skills = [
   },
   {
     name: "React Js",
-    value: 70,
+    value: 85,
   },
   {
     name: "Node Js",
-    value: 60,
+    value: 75,
   },
 ];
 
@@ -65,12 +66,15 @@ const services = [
   {
     title: "eCommerce Websites",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "",
   },
   {
-    title: "Mobile Apps",
+    title: "Progressive Web Apps",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "",
+  },
+  {
+    title:"Customised Websites"
   },
 ];
 
@@ -91,10 +95,10 @@ const dataportfolio = [
     link: "https://newsapp-alpha-liard.vercel.app/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: musicplayer,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Music Player Created with React and Node JS",
+    link: "https://musicplayer-wheat.vercel.app/",
   },
   {
     img: "https://picsum.photos/400/300/?grayscale",
@@ -151,7 +155,7 @@ const contactConfig = {
   YOUR_EMAIL: "mihirbangia30@gmail.com",
   YOUR_FONE: "+91 7567116583",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_2324pfy",
