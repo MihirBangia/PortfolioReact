@@ -2,9 +2,10 @@ import logo from "./pages/portfolio/weatherapp.png";
 import bmi from "./pages/portfolio/bmi1.png";
 import newsapp from "./pages/portfolio/newsapp.png";
 import musicplayer from './pages/portfolio/musicplayer.png';
+import certification from './pages/portfolio/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png'
 const logotext = "MIHIR";
 const meta = {
-  title: "Mihir Bangia",
+  title: "Mihir Bangia,Adobe Certified Magento Developer",
   description:
     "I’m Mihir Bangia Full stack Web Devloper,currently working in Ahmedabad",
 };
@@ -80,6 +81,11 @@ const services = [
 
 const dataportfolio = [
   {
+    img: certification,
+    description: "view my certification from adobe",
+    link: "https://www.credly.com/badges/30c0ac7c-1cf3-44f6-9bd6-d21d5bf4ed18",
+  },
+  {
     img: logo,
     description: "Weather Forecasting website using Node",
     link: "https://myweatherapp.mihirbangia.repl.co/",
@@ -100,60 +106,55 @@ const dataportfolio = [
       "Music Player Created with React and Node JS",
     link: "https://musicplayer-wheat.vercel.app/",
   },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+  // {
+  //   img: "https://picsum.photos/400/300/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/700/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
 
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+  // {
+  //   img: "https://picsum.photos/400/600/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/300/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/550/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/?grayscale",
+  //   description:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
+ 
 ];
 
 const contactConfig = {
   YOUR_EMAIL: "mihirbangia30@gmail.com",
-  YOUR_FONE: "+91 7567116583",
+  // YOUR_FONE: "+91 7567116583",
   description:
     "",
   // creat an emailjs.com account
@@ -167,7 +168,7 @@ const socialprofils = {
   github: "https://github.com/MihirBangia",
   facebook: "https://facebook.com",
   linkedin: "https://www.linkedin.com/in/mihir-bangia-a948b9186/",
-  twitter: "https://twitter.com",
+  twitter: "https://twitter.com/BangiaMihir",
 };
 export {
   meta,

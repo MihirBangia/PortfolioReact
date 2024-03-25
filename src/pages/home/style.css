@@ -12,7 +12,7 @@ section {
 }
 
 .img{
-    background-image: url('../home/My.JPG');
+    background-image: url('../home/developer-3.jpeg');
 }
 .has-first-color {
     color: var(--primary-color);
